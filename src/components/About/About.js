@@ -14,7 +14,7 @@ function About() {
   return (
     <ContactWrapper id="about">
       <div className="Container">
-        <div className="SectionTitle">About Me</div>
+        <div className="SectionTitle">About Me(Vishnu)</div>
         <div className="BigCard">
           <ScrollAnimation animateIn="fadeInLeft">
             <Image
