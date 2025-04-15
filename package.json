@@ -1,6 +1,6 @@
 {
   "name": "portfolio-react",
-  "homepage": "http://localhost:3000/",
+  "homepage": "https://vishnu-singh-portfolio.netlify.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

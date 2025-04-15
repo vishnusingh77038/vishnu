@@ -1,5 +1,5 @@
 **Portfolio**
-Live Preview - [Click Here](http://localhost:3000/)
+Live Preview - [Click Here](https://vishnu-singh-portfolio.netlify.app/)
 
 <br/>
 <div align="center">
